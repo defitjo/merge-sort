@@ -1,3 +1,3 @@
 # Merge Sort
 
-Merge Sort algorithm using Python, TypeScript, and Go
+Merge Sort algorithm using Python, TypeScript, Java, and Rust
